@@ -1,0 +1,9 @@
+c:\users\verda.yilmaz\documents\visual studio 2015\Projects\Quiz1_30072016\Quiz1_30072016\bin\Debug\Quiz1_30072016.exe.config
+c:\users\verda.yilmaz\documents\visual studio 2015\Projects\Quiz1_30072016\Quiz1_30072016\bin\Debug\Quiz1_30072016.exe
+c:\users\verda.yilmaz\documents\visual studio 2015\Projects\Quiz1_30072016\Quiz1_30072016\bin\Debug\Quiz1_30072016.pdb
+c:\users\verda.yilmaz\documents\visual studio 2015\Projects\Quiz1_30072016\Quiz1_30072016\obj\Debug\Quiz1_30072016.csprojResolveAssemblyReference.cache
+c:\users\verda.yilmaz\documents\visual studio 2015\Projects\Quiz1_30072016\Quiz1_30072016\obj\Debug\Quiz1_30072016.Form1.resources
+c:\users\verda.yilmaz\documents\visual studio 2015\Projects\Quiz1_30072016\Quiz1_30072016\obj\Debug\Quiz1_30072016.Properties.Resources.resources
+c:\users\verda.yilmaz\documents\visual studio 2015\Projects\Quiz1_30072016\Quiz1_30072016\obj\Debug\Quiz1_30072016.csproj.GenerateResource.Cache
+c:\users\verda.yilmaz\documents\visual studio 2015\Projects\Quiz1_30072016\Quiz1_30072016\obj\Debug\Quiz1_30072016.exe
+c:\users\verda.yilmaz\documents\visual studio 2015\Projects\Quiz1_30072016\Quiz1_30072016\obj\Debug\Quiz1_30072016.pdb
